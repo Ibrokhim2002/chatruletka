@@ -1,0 +1,83 @@
+[
+
+  {
+    "en0": {
+      "start_command": "You are in the dialog right now 🤔\n/next - find a new partner\n/stop - stop this dialog",
+      "send_text": "Send me text, links, gifs, stickers, photos, videos, or voice messages, and I will anonymously forward them to your partner\n\nTo change your language, use the command /lng",
+      "searching": "Searching for a chat partner🔎",
+      "partner_found": "Partner found 😺\n\n/next - find a new partner\n/stop - stop this dialog",
+      "stopped_dialog_user": "You stopped the dialog 🙄\nType /search to find a new partner",
+      "stopped_dialog_partner": "Your partner has stopped the dialog 😞\nType /search to find a new partner",
+      "feedback_message": "If you wish, leave your feedback about your partner. It will help us find better partners for you in the future",
+      "choose_language": "Please choose your language:",
+      "language_confirmation": "You successfully changed your language",
+      "no_partner": "You have no partner 🤔\nType /search to find a new partner",
+      "thanks_feedback": "Thanks for the feedback!",
+      "choose_reason": "Choose a reason for report:",
+      "back_menu": "You are back to the previous menu.",
+      "report": "⚠️ Report ➡️",
+      "buttons_column1": {
+      "advertising": "📰Advertising",
+      "selling": "💰Selling",
+      "child_porn": "🔞Child porn",
+      "begging": "🤑Begging",
+      "insulting": "🤬Insulting",
+      "violance": "👊Violence",
+      "vulgar": "❌Vulgar partner",
+      "back": "⬅️back"
+      }
+    },
+    "uz1": {
+      "start_command": "Siz hozirda suhbatda ekansiz 🤔\n/next - yangi sherikni qidiring\n/stop - bu suhbatni to'xtating",
+      "send_text": "Menga matn, havolalar, GIF, stikerlar, rasmlar, videolar yoki ovozli xabarlar yuboring, men ularni anonim ravishda sherikizga o'tqazaman\n\nTilni o'zgartirish uchun /lng buyrug'ini ishlatishingiz mumkin",
+      "searching": "Suhbat do'sti izlayapman🔎",
+      "partner_found": "Suhbat do'sti topildi 😺\n\n/next - yangi sherikni qidiring\n/stop - bu suhbatni to'xtating",
+      "stopped_dialog_user": "Siz suhbatni to'xtatdingiz 🙄\nYangi sherikni topish uchun /search ni kiriting",
+      "stopped_dialog_partner": "Sizning suhbat do'stingiz suhbatni to'xtatdi 😞\nYangi sherikni topish uchun /search ni kiriting",
+      "feedback_message": "Agar istaysiz, sherikingiz haqida fikr qoldiring. Bu bizga yaxshi sheriklar topishda yordam bera olishadi",
+      "choose_language": "Iltimos, tilni tanlang:",
+      "language_confirmation": "Siz tilni muvaffaqiyatli o'zgartirdingiz",
+      "no_partner": "Sizning sherikingiz yo'q 🤔\nYangi sherikni topish uchun /search ni kiriting.",
+      "thanks_feedback": "Fikrlar uchun rahmat!",
+      "choose_reason": "Sharh uchun sabab tanlang:",
+      "back_menu": "Siz avvalgi menyuga qaytdingiz.",
+      "report": "⚠️ Report ➡️",
+      "buttons_column1": {
+        "advertising": "📰 Reklama",
+        "selling": "💰 Savdo",
+        "child_porn": "🔞 Bola pornografiyasi",
+        "begging": "🤑 So'roq",
+        "insulting": "🤬 Istismor",
+        "violance": "👊 Zulm",
+        "vulgar": "❌ Vulgar sherik",
+        "back": "⬅️ Ortga"
+      }
+    },
+    "ru2": {
+      "start_command": "Вы уже находитесь в диалоге 🤔\n/next - найти нового партнера\n/stop - завершить этот диалог",
+      "send_text": "Отправьте мне текст, ссылки, GIF, стикеры, фотографии, видео или голосовые сообщения, и я анонимно перешлю их вашему партнеру\n\nЧтобы изменить язык, используйте команду /lng",
+      "searching": "Поиск собеседника🔎",
+      "partner_found": "Партнер найден 😺\n\n/next - найти нового партнера\n/stop - завершить этот диалог",
+      "stopped_dialog_user": "Вы завершили диалог 🙄\nВведите /search, чтобы найти нового партнера",
+      "stopped_dialog_partner": "Ваш партнер завершил диалог 😞\nВведите /search, чтобы найти нового партнера",
+      "feedback_message": "Если вы хотите, оставьте отзыв о своем партнере. Это поможет нам находить для вас лучших партнеров в будущем",
+      "choose_language": "Пожалуйста, выберите ваш язык:",
+      "language_confirmation": "Вы успешно изменили свой язык",
+      "no_partner": "У вас нет партнера 🤔\nВведите /search, чтобы найти нового партнера.",
+      "thanks_feedback": "Спасибо за отзыв!",
+      "choose_reason": "Выберите причину для жалобы:",
+      "back_menu": "Вы вернулись в предыдущее меню.",
+      "report": "⚠️ Report ➡️",
+      "buttons_column1": {
+        "advertising": "📰 Реклама",
+        "selling": "💰 Продажи",
+        "child_porn": "🔞 Детская порнография",
+        "begging": "🤑 Попрошайничество",
+        "insulting": "🤬 Оскорбления",
+        "violance": "👊 Насилие",
+        "vulgar": "❌ Вульгарный партнер",
+        "back": "⬅️ Назад"
+      }
+    }
+  }
+]
