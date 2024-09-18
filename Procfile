@@ -1,1 +1,1 @@
-worker python chatruletka.py
+worker: python chatruletka.py
