@@ -683,8 +683,8 @@ async def handle_message(message: types.Message):
             mysql_connection.close()
 
 
-
-
+app = web.Application()
+app.router.add_get('/', handle)
 
 
 # Start the bot
