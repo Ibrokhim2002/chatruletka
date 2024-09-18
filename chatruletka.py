@@ -683,6 +683,11 @@ async def handle_message(message: types.Message):
             mysql_connection.close()
 
 
+
+async def handle(request):
+    return web.Response(text="OK")
+
+
 app = web.Application()
 app.router.add_get('/', handle)
 
