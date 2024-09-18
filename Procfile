@@ -1,1 +1,1 @@
-web: python chatruletka.py
+worker: python chatruletka.py
