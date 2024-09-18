@@ -8,7 +8,7 @@ from aiogram.dispatcher import FSMContext
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 import json 
 from chatruletka_btn import get_buttons_for_language, get_buttons_for_language2_user, get_buttons_for_language2_partner
-from aiohttp import web
+
 
 import aiogram.utils.exceptions
 
@@ -684,15 +684,9 @@ async def handle_message(message: types.Message):
 
 
 
-async def handle(request):
-    return web.Response(text="OK")
 
-
-app = web.Application()
-app.router.add_get('/', handle)
 
 
 # Start the bot
 if __name__ == '__main__':
-    web.run_app(app, port=8000)
     executor.start_polling(dp, skip_updates=True)
