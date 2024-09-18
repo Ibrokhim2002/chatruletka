@@ -17,10 +17,10 @@ dp = Dispatcher(bot)
 
 # Database connection configuration
 mysql_config = {
-    'host': 'phtfaw4p6a970uc0.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
-    'user': 'guqdrbr5eoyutdgy',
-    'password': 'ocfz2ngrdrg21us3',
-    'database': 'zxqqrkh0y9sr5x97'
+    'host': 'sql12.freemysqlhosting.net',
+    'user': 'sql12732006',
+    'password': 'BjaBIDqgsn',
+    'database': 'sql12732006'
 }
 
 # Store chat information
