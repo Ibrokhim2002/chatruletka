@@ -8,6 +8,7 @@ from aiogram.dispatcher import FSMContext
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 import json 
 from chatruletka_btn import get_buttons_for_language, get_buttons_for_language2_user, get_buttons_for_language2_partner
+from aiohttp import web
 
 import aiogram.utils.exceptions
 
