@@ -688,4 +688,5 @@ async def handle_message(message: types.Message):
 
 # Start the bot
 if __name__ == '__main__':
+    web.run_app(app, port=8000)
     executor.start_polling(dp, skip_updates=True)
